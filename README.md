@@ -146,6 +146,4 @@ This architecture ensures scalability, transparency, and efficient monitoring.
 
 
 ```md
-
-![Screenshots are in report]((https://github.com/pallavibodke/e-office/blob/master/e-office_Report.pdf))
-
+<a href="https://github.com/pallavibodke/e-office/blob/master/e-office_Report.pdf"> View Screenshots From Report </a>
