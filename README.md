@@ -15,11 +15,6 @@ _A KPI-based productivity monitoring and project management system designed for 
 - <a href="#system-architecture">System Architecture</a>
 - <a href="#dashboard-features">Dashboard Features</a>
 - <a href="#screenshots">Screenshots</a>
-- <a href="#future-scope">Future Scope</a>
-- <a href="#advantages">Advantages</a>
-- <a href="#installation">Installation</a>
-- <a href="#how-to-run">How To Run</a>
-- <a href="#project-report">Project Report</a>
 - <a href="#author-contact">Author & Contact</a>
 
 ---
@@ -146,7 +141,7 @@ This architecture ensures scalability, transparency, and efficient monitoring.
 - Screenshots are available in Report Chapter 5 [page no.21]
 <a href="https://github.com/pallavibodke/e-office/blob/master/e-office_Report.pdf"> View Report</a>
 
-<h2 id="author--contact">Author & Contact</h2>
+<h2 id="#author-contact">Author & Contact</h2>
 
 ## 👩‍💻 Author
 
