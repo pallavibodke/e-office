@@ -141,7 +141,7 @@ This architecture ensures scalability, transparency, and efficient monitoring.
 - Screenshots are available in Report Chapter 5 [page no.21]
 <a href="https://github.com/pallavibodke/e-office/blob/master/e-office_Report.pdf"> View Report</a>
 
-<h2 id="#author-contact">Author & Contact</h2>
+<a href="#author-contact">Author & Contact</a>
 
 ## 👩‍💻 Author
 
