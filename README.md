@@ -146,8 +146,6 @@ This architecture ensures scalability, transparency, and efficient monitoring.
 
 
 ```md
+-Screenshots are in report
 ![Admin Dashboard](images/admin-dashboard.png)
 
-![Manager Dashboard](images/manager-dashboard.png)
-
-![Employee Portal](images/employee-portal.png)
