@@ -142,11 +142,8 @@ This architecture ensures scalability, transparency, and efficient monitoring.
 <a href="https://github.com/pallavibodke/e-office/blob/master/e-office_Report.pdf"> View Report</a>
 
 <h2><a class="anchor" id="author-contact"></a>Author & Contact</h2>
-## 👩‍💻 Author
 
 **Pallavi Bodke**
-
-### Contact
 
 - Email: pallavibodke108@gmail.com
 - [GitHub](https://github.com/pallavibodke)
